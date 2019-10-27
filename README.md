@@ -1,4 +1,4 @@
-# Square Array
+one thing im not clear on is if i have to create the array myself or if it is alreay set for me in the spec. i do see that # Square Array
 
 ## Learning Goals
 
